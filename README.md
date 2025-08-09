@@ -57,7 +57,7 @@ Make sure you have the following installed before proceeding:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/username/simple-blog.git
+git clone https://github.com/budiluky/blog-app.git
 cd simple-blog
 ```
 
