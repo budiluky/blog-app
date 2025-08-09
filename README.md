@@ -58,7 +58,7 @@ Make sure you have the following installed before proceeding:
 
 ```bash
 git clone https://github.com/budiluky/blog-app.git
-cd simple-blog
+cd blog-app
 ```
 
 ### 2️⃣ Backend Setup (Laravel)
